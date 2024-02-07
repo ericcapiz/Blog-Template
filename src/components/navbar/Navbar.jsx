@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className={styles.container}>
       <Link href="/" className={styles.logo}>
-        Logo
+        EZ Blog
       </Link>
       <div>
         <Links />
